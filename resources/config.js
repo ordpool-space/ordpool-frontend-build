@@ -3,6 +3,6 @@
     window.__env.MEMPOOL_WEBSITE_URL = 'https://ordpool.space';
     window.__env.ITEMS_PER_PAGE = 25;
     window.__env.BASE_MODULE = 'ordpool';
-    window.__env.GIT_COMMIT_HASH = '5638016';
+    window.__env.GIT_COMMIT_HASH = '081419e';
     window.__env.PACKAGE_JSON_VERSION = '3.4-dev';
   }((typeof global !== 'undefined') ? global : this));

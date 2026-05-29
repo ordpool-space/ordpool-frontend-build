@@ -1123,6 +1123,9 @@ MIT
 ngx-infinite-scroll
 MIT
 
+nipplejs
+MIT
+
 ordpool-parser
 MIT
 MIT License

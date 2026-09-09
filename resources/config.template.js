@@ -3,6 +3,6 @@
     window.__env.MEMPOOL_WEBSITE_URL = '${__MEMPOOL_WEBSITE_URL__}';
     window.__env.ITEMS_PER_PAGE = ${__ITEMS_PER_PAGE__};
     window.__env.BASE_MODULE = '${__BASE_MODULE__}';
-    window.__env.GIT_COMMIT_HASH = '2b80f03';
+    window.__env.GIT_COMMIT_HASH = '007917e';
     window.__env.PACKAGE_JSON_VERSION = '3.4-dev';
   }(this));

@@ -4,6 +4,6 @@
     window.__env.ITEMS_PER_PAGE = ${__ITEMS_PER_PAGE__};
     window.__env.BASE_MODULE = '${__BASE_MODULE__}';
     window.__env.ACCELERATOR_BUTTON = ${__ACCELERATOR_BUTTON__};
-    window.__env.GIT_COMMIT_HASH = '3ab9857';
+    window.__env.GIT_COMMIT_HASH = '11c5d70';
     window.__env.PACKAGE_JSON_VERSION = '3.4-dev';
   }(this));
